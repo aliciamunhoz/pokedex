@@ -1,4 +1,12 @@
 .title{
-    color: yellow;
+    color: #212121;
+    font-family: poppins;
+    font-style: normal;
+    font-weight: 700, bolder;
+    font-size: 24px;
+    align-items: center;
+}
 
+body {
+    background-color: #F7F7F7;
 }
